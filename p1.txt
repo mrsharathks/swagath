@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 addd2
+=======
+>>>>>>> a2794ab (Update p1.txt)
 add
 hi gd
 ygwjddhvwj
